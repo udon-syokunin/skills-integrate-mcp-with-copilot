@@ -1,0 +1,8 @@
+{
+  "teachers": [
+    {
+      "username": "teacher",
+      "password_hash": "replace-with-a-pbkdf2-sha256-hash"
+    }
+  ]
+}
